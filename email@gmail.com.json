@@ -1,0 +1,14 @@
+{
+  "installed": {
+    "client_id": "184743927317-fgfljlsso7vm82nfkh14418bfn554bmb.apps.googleusercontent.com",
+    "project_id": "sacred-veld-446000-q4",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [
+      "http://localhost"
+    ]
+  },
+  "refresh_token": "1//0g1e2umZbhZuSCgYIARAAGBASNwF-L9IrW1QaCEugwpN5b5ibpAWtprPbwz58CEA7WZyVet3rXeyx9xweQDyh5SBVYhIGH0id4JI"
+}
